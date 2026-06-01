@@ -2,7 +2,7 @@
 
 ![Gowtham S — Cloud & DevOps Engineer](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=42&duration=99999&pause=99999&color=70A5FD&center=true&vCenter=true&width=900&height=80&lines=Gowtham+S)</div>
 
-<div align="center"><sub><i>☁️ Cloud &amp; DevOps Engineer &nbsp;|&nbsp; Azure &nbsp;|&nbsp; Terraform &nbsp;|&nbsp; Airflow</i></sub></div>
+<div align="center"><h3>☁️ Cloud & DevOps Engineer</h3></div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
