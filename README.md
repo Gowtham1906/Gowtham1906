@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gowtham%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20Azure%20%7C%20Terraform%20%7C%20Airflow&descAlignY=62&descSize=16" width="100%"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gowtham%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20Azure%20%7C%20Terraform%20%7C%20Airflow&descAlignY=62&descSize=16)
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -245,4 +245,4 @@ print(me.motto())
   </a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
